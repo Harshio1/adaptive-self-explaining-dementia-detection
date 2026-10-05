@@ -37,8 +37,9 @@ Balanced benchmark: on the ADReSSo-2021 subset (166 recordings) the same framewo
 
 ⚠️ Results across datasets and protocols are not directly comparable. Speaker-independent evaluation on the full, unbalanced, multi-session Pitt corpus is considerably harder than on curated balanced subsets.
 
-🏗️ Architecture
-![Architecture](figures/Architecture.png)
+## 🏗️ Architecture
+
+![Architecture](figures/architecture.png)
 
 Components
 Stage	Details
