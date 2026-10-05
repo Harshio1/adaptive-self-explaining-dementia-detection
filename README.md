@@ -39,7 +39,7 @@ Balanced benchmark: on the ADReSSo-2021 subset (166 recordings) the same framewo
 
 ## 🏗️ Architecture
 
-![Architecture](figures/architecture.png)
+![Architecture](figures/Architecture.png)
 
 Components
 Stage	Details
